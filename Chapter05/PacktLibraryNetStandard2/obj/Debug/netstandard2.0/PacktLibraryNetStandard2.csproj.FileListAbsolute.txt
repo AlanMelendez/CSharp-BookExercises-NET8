@@ -8,3 +8,4 @@
 /home/alandev/Documents/.NET PROJECTS/BOOK_EXERCISES/Chapter05/PacktLibraryNetStandard2/obj/Debug/netstandard2.0/PacktLibraryNetStandard2.csproj.CoreCompileInputs.cache
 /home/alandev/Documents/.NET PROJECTS/BOOK_EXERCISES/Chapter05/PacktLibraryNetStandard2/obj/Debug/netstandard2.0/PacktLibraryNetStandard2.dll
 /home/alandev/Documents/.NET PROJECTS/BOOK_EXERCISES/Chapter05/PacktLibraryNetStandard2/obj/Debug/netstandard2.0/PacktLibraryNetStandard2.pdb
+/home/alandev/Documents/.NET PROJECTS/BOOK_EXERCISES/Chapter05/PacktLibraryNetStandard2/obj/Debug/netstandard2.0/PacktLibraryNetStandard2.sourcelink.json

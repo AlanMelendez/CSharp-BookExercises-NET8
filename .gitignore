@@ -1,0 +1,28 @@
+# Ignore build output and intermediate files
+bin/
+obj/
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+# Visual Studio Code settings
+.vscode/
+# NuGet packages
+*.nupkg
+# Logs
+*.log
+# Test results
+TestResults/
+# Others
+*.vs/
+_ReSharper*/
+.idea/
+*.dbmdl
+*.dbproj.schemaview
+*.pdb
+*.cache
+*.config
+*.bak
+*.tmp
+

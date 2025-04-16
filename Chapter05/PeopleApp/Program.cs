@@ -19,7 +19,8 @@ WriteLine(bob); // Implicit call to ToString().
 
 #endregion
 
-#region Setting and outputting field values
+#region Setting and outputting field values 
+
 
 bob.Name = "Alan Melendez";
 bob.Born = new DateTimeOffset(
@@ -31,5 +32,27 @@ bob.Born = new DateTimeOffset(
 WriteLine(format: "{0} was born on {1:D}.", arg0: bob.Name, arg1: bob.Born); // D means long date pattern. (it's similar to use a pipe in Angular)
 WriteLine($"{bob.Name} was born on {bob.Born:D}."); // Interpolated string.
 WriteLine($"{bob.Name} was born on {bob.Born:yyyy-MM-dd}."); // Interpolated string with format.
+
+#endregion
+
+#region Setting field values using a object initializer syntax
+  Person alice = new()
+  {
+    Name = "Alice",
+    Born = new DateTimeOffset(
+      year: 1990, month: 1, day: 1,
+      hour: 0, minute: 0, second: 0,
+      offset: TimeSpan.FromHours(-5) // UTC-5
+    )
+  };
+  WriteLine(format: "{0} was born on {1:D}.", arg0: alice.Name, arg1: alice.Born); // D means long date pattern. (it's similar to use a pipe in Angular)
+#endregion
+
+#region Storing a value usign an enum type
+
+//Set Bob's favorite ancient wonder of the world:
+
+bob.wondersOfTheAncientWorld = WondersOfTheAncientWorld.GreatPyramidOfGiza;
+WriteLine($"{bob.Name}'s favorite wonder is {bob.wondersOfTheAncientWorld}");
 
 #endregion
