@@ -52,7 +52,10 @@ WriteLine($"{bob.Name} was born on {bob.Born:yyyy-MM-dd}."); // Interpolated str
 
 //Set Bob's favorite ancient wonder of the world:
 
-bob.wondersOfTheAncientWorld = WondersOfTheAncientWorld.GreatPyramidOfGiza;
-WriteLine($"{bob.Name}'s favorite wonder is {bob.wondersOfTheAncientWorld}");
+//bob.wondersOfTheAncientWorld = WondersOfTheAncientWorld.GreatPyramidOfGiza;
+//WriteLine($"{bob.Name}'s favorite wonder is {bob.wondersOfTheAncientWorld}");
+
+bob.BucketList = WondersOfTheAncientWorld.HangingGardensOfBabylon | WondersOfTheAncientWorld.MausoleumAtHalicarnassus;
+WriteLine($"{bob.Name}'s bucket list is {bob.BucketList}");
 
 #endregion
