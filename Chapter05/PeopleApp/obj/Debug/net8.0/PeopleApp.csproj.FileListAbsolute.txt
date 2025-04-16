@@ -18,3 +18,4 @@
 /home/alandev/Documents/.NET PROJECTS/BOOK_EXERCISES/Chapter05/PeopleApp/obj/Debug/net8.0/PeopleApp.pdb
 /home/alandev/Documents/.NET PROJECTS/BOOK_EXERCISES/Chapter05/PeopleApp/obj/Debug/net8.0/PeopleApp.genruntimeconfig.cache
 /home/alandev/Documents/.NET PROJECTS/BOOK_EXERCISES/Chapter05/PeopleApp/obj/Debug/net8.0/ref/PeopleApp.dll
+/home/alandev/Documents/.NET PROJECTS/BOOK_EXERCISES/Chapter05/PeopleApp/obj/Debug/net8.0/PeopleApp.sourcelink.json
