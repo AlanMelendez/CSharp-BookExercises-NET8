@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Wa99D6LS0q4=",
+  "success": true,
+  "projectFilePath": "/home/alandev/Documents/.NET PROJECTS/BOOK_EXERCISES/Chapter05/PacktLibraryModern/PacktLibraryModern.csproj",
+  "expectedPackageFiles": [
+    "/home/alandev/.nuget/packages/microsoft.netcore.app.ref/8.0.14/microsoft.netcore.app.ref.8.0.14.nupkg.sha512",
+    "/home/alandev/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.14/microsoft.aspnetcore.app.ref.8.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

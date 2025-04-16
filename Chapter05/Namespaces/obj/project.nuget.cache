@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "WEFhze+dbEs=",
+  "success": true,
+  "projectFilePath": "/home/alandev/Documents/.NET PROJECTS/BOOK_EXERCISES/Chapter05/Namespaces/Namespaces.csproj",
+  "expectedPackageFiles": [
+    "/home/alandev/.nuget/packages/microsoft.netcore.app.ref/8.0.14/microsoft.netcore.app.ref.8.0.14.nupkg.sha512",
+    "/home/alandev/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.14/microsoft.aspnetcore.app.ref.8.0.14.nupkg.sha512",
+    "/home/alandev/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.14/microsoft.netcore.app.host.linux-x64.8.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

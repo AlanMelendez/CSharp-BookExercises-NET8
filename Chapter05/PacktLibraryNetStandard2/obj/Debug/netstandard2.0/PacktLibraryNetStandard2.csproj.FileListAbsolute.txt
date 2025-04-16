@@ -1,0 +1,10 @@
+/home/alandev/Documents/.NET PROJECTS/BOOK_EXERCISES/Chapter05/PacktLibraryNetStandard2/bin/Debug/netstandard2.0/PacktLibraryNetStandard2.deps.json
+/home/alandev/Documents/.NET PROJECTS/BOOK_EXERCISES/Chapter05/PacktLibraryNetStandard2/bin/Debug/netstandard2.0/PacktLibraryNetStandard2.dll
+/home/alandev/Documents/.NET PROJECTS/BOOK_EXERCISES/Chapter05/PacktLibraryNetStandard2/bin/Debug/netstandard2.0/PacktLibraryNetStandard2.pdb
+/home/alandev/Documents/.NET PROJECTS/BOOK_EXERCISES/Chapter05/PacktLibraryNetStandard2/obj/Debug/netstandard2.0/PacktLibraryNetStandard2.csproj.AssemblyReference.cache
+/home/alandev/Documents/.NET PROJECTS/BOOK_EXERCISES/Chapter05/PacktLibraryNetStandard2/obj/Debug/netstandard2.0/PacktLibraryNetStandard2.GeneratedMSBuildEditorConfig.editorconfig
+/home/alandev/Documents/.NET PROJECTS/BOOK_EXERCISES/Chapter05/PacktLibraryNetStandard2/obj/Debug/netstandard2.0/PacktLibraryNetStandard2.AssemblyInfoInputs.cache
+/home/alandev/Documents/.NET PROJECTS/BOOK_EXERCISES/Chapter05/PacktLibraryNetStandard2/obj/Debug/netstandard2.0/PacktLibraryNetStandard2.AssemblyInfo.cs
+/home/alandev/Documents/.NET PROJECTS/BOOK_EXERCISES/Chapter05/PacktLibraryNetStandard2/obj/Debug/netstandard2.0/PacktLibraryNetStandard2.csproj.CoreCompileInputs.cache
+/home/alandev/Documents/.NET PROJECTS/BOOK_EXERCISES/Chapter05/PacktLibraryNetStandard2/obj/Debug/netstandard2.0/PacktLibraryNetStandard2.dll
+/home/alandev/Documents/.NET PROJECTS/BOOK_EXERCISES/Chapter05/PacktLibraryNetStandard2/obj/Debug/netstandard2.0/PacktLibraryNetStandard2.pdb

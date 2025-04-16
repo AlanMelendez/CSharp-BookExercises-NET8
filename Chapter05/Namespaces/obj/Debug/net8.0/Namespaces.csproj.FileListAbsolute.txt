@@ -1,0 +1,14 @@
+/home/alandev/Documents/.NET PROJECTS/BOOK_EXERCISES/Chapter05/Namespaces/bin/Debug/net8.0/Namespaces
+/home/alandev/Documents/.NET PROJECTS/BOOK_EXERCISES/Chapter05/Namespaces/bin/Debug/net8.0/Namespaces.deps.json
+/home/alandev/Documents/.NET PROJECTS/BOOK_EXERCISES/Chapter05/Namespaces/bin/Debug/net8.0/Namespaces.runtimeconfig.json
+/home/alandev/Documents/.NET PROJECTS/BOOK_EXERCISES/Chapter05/Namespaces/bin/Debug/net8.0/Namespaces.dll
+/home/alandev/Documents/.NET PROJECTS/BOOK_EXERCISES/Chapter05/Namespaces/bin/Debug/net8.0/Namespaces.pdb
+/home/alandev/Documents/.NET PROJECTS/BOOK_EXERCISES/Chapter05/Namespaces/obj/Debug/net8.0/Namespaces.GeneratedMSBuildEditorConfig.editorconfig
+/home/alandev/Documents/.NET PROJECTS/BOOK_EXERCISES/Chapter05/Namespaces/obj/Debug/net8.0/Namespaces.AssemblyInfoInputs.cache
+/home/alandev/Documents/.NET PROJECTS/BOOK_EXERCISES/Chapter05/Namespaces/obj/Debug/net8.0/Namespaces.AssemblyInfo.cs
+/home/alandev/Documents/.NET PROJECTS/BOOK_EXERCISES/Chapter05/Namespaces/obj/Debug/net8.0/Namespaces.csproj.CoreCompileInputs.cache
+/home/alandev/Documents/.NET PROJECTS/BOOK_EXERCISES/Chapter05/Namespaces/obj/Debug/net8.0/Namespaces.dll
+/home/alandev/Documents/.NET PROJECTS/BOOK_EXERCISES/Chapter05/Namespaces/obj/Debug/net8.0/refint/Namespaces.dll
+/home/alandev/Documents/.NET PROJECTS/BOOK_EXERCISES/Chapter05/Namespaces/obj/Debug/net8.0/Namespaces.pdb
+/home/alandev/Documents/.NET PROJECTS/BOOK_EXERCISES/Chapter05/Namespaces/obj/Debug/net8.0/Namespaces.genruntimeconfig.cache
+/home/alandev/Documents/.NET PROJECTS/BOOK_EXERCISES/Chapter05/Namespaces/obj/Debug/net8.0/ref/Namespaces.dll
