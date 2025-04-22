@@ -59,3 +59,33 @@ bob.BucketList = WondersOfTheAncientWorld.HangingGardensOfBabylon | WondersOfThe
 WriteLine($"{bob.Name}'s bucket list is {bob.BucketList}");
 
 #endregion
+
+
+#region Understanding generic collections
+
+Person Alfred = new Person();
+Alfred.Name = "Alfred";
+
+bob.Children.Add(Alfred);
+
+//Works with C# 3 and later.
+bob.Children.Add( new Person {Name = "Bella"});
+
+//Works with C# 9 and later.
+bob.Children.Add(new() {Name = "Zoe"});
+
+//Count the number of Bob's Children.
+WriteLine($"{bob.Name} has {bob.Children.Count} childrens");
+
+//Iterate of collection of Bob's children list.
+
+for (int childIndex = 0; childIndex < bob.Children.Count; childIndex++)
+{
+  WriteLine($"{bob.Name}'s child {childIndex} is {bob.Children[childIndex].Name}");
+}
+
+foreach (var children in bob.Children){
+    WriteLine($"{bob.Name}'s child is {children.Name}");
+}
+
+#endregion
